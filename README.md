@@ -8,4 +8,5 @@ What this project has taught me:
 - Starting to get used to the workflow of using Git.
 - Made me think about how to write good commit messages.
 - Also just getting used to writing HTML in general (lists, headers etc.).
+- How to add bullet points to README.md.
 
