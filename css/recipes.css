@@ -1,0 +1,38 @@
+* {
+    text-align: center;
+}
+
+img {
+    width: 375px;
+    height: auto;
+}
+
+
+div {
+    text-align: center;
+}
+
+ul,
+ol {
+    display: inline-block;
+    
+}
+
+li,
+.description {
+    text-align: left;
+    font-size: 18px;
+
+}
+
+.steps,
+.description {
+    width: 400px;
+    margin: auto;
+}
+
+
+
+
+
+
