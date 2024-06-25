@@ -5,11 +5,12 @@
 .title, 
 .recipe-list {
     margin: auto;
-    text-align: center;
 }
 .title {
     font-size: 40px;
     font-family: Helvetica, "Times New Roman", sans-serif;
+    text-align: center;
+
 }
 
 .recipe-list {
@@ -19,7 +20,10 @@
     font-size: 30px;
     line-height: 2;
     background: rgb(173, 198, 230);
+    text-align: left;
 }
+
+
 
 a {
     text-decoration: none;
