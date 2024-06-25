@@ -26,6 +26,10 @@ li,
     margin: auto;
 }
 
+h2 {
+    margin-block-end: 0px;
+}
+
 
 
 
