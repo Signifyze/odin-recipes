@@ -36,4 +36,5 @@ img {
 .recipe-title {
     margin-bottom: 5px;
     background-color: hsl(196, 42%, 59%);
+    padding: 10px 0;
 }
